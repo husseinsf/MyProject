@@ -1,2 +1,2 @@
-# bubudate.github.com
+# bubudate.github.io
 Memories
